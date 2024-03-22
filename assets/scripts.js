@@ -11,5 +11,6 @@ $(document).ready(function () {
     lightboxId: "myAwesomeLightbox",
     showTags: true,
     tagsPosition: "top",
+    navigation: true,
   });
 });
